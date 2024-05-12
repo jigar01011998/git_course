@@ -1,3 +1,1 @@
-print("I am jigar parekh");
-print("huuu");
-print("eihfiud");
+print("I am a beginner with Git");
